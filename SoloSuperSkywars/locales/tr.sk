@@ -154,7 +154,7 @@ on load:
 	set {Skywars_Reload_1} to "§fYeniden yükleniyor..."
 	set {Skywars_Reload_2} to "§fBaşarılı bir şekilde yüklendi."
 	set {Skywars_SpecMode} to "Artık izleyicisin!"
-	set {Skywars_Prefix} to "§7Sohbete yenisini yaz, bu istek 15 saniye sonra bitecek."
+	set {Skywars_PrefixSettings} to "§7Sohbete yenisini yaz, bu istek 15 saniye sonra bitecek."
 	set {Skywars_Settings} to "Ayarlar"
 	set {Skywars_cooldown} to "§6Ayarla: §e"
 	set {Skywars_Gametime} to "§6Ayarla: §e"
