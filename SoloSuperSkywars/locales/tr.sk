@@ -57,7 +57,6 @@ on load:
 	set {Vote_Text::3} to "&cZor sandık"
 	set {Votes_Text} to "&f{NUM}.&r {TYPE} &8&m-&r &7{VOTES} oy."
 	set {Item_Glass} to "&a&lCAM RENGİ"
-	set {Command_Join_8} to "&7Odada &a{MIN} &7kişi olduğunda oyun başlayacaktır!"
 	set {Error_AlreadyGame} to "&cŞuan bir oyundasın!"
 	set {Error_GameFull} to "&cBu oda dolu!"
 	set {Error_InGame} to "&cBu oda oyunda!"
@@ -125,4 +124,5 @@ on load:
 	set {Command_Join_7} to "Tüm rakiplerini belirtilen sürede öldür."
 	set {Command_Join_8} to "&7Oyunun bitmesine &c{TIME} &7dakika kaldı!"
 	set {Command_Join_9} to "&c&lSÜRE DOLDU, KİMSE KAZANAMADI!"
+	set {Command_Join_10} to "&7Odada &a{MIN} &7kişi olduğunda oyun başlayacaktır!"
 #
