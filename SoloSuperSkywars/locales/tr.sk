@@ -20,7 +20,7 @@ on load:
 	set {Help_Page_3::1} to "&a/sw sync &8&m-&r &7Eski ayar ve mesaj dosyalarını günceller."
 	set {Help_Page_3::2} to "&a/sw config &8&m-&r &7Oyun içinden ayarları değiştirme menüsü açılır."
 	set {Help_Page_3::3} to "&a/sw locale <dil> &8&m-&r &7Eklenti dilini değiştirir."
-	set {Locale_Set} to "&7Dil ayarlandı: &a"
+	set {Locale_Set} to "&7Dil ayarlandı:&a"
 	set {Locale_Error_Website} to "&cİnternet bağlantınızı kontrol ediniz!"
 	set {Locale_Error} to "&cBöyle bir dil yok!"
 	set {Sync_Done} to "&2[{TIME}] &a{FILE} &7dosyası &ngüncellendi&r&7."
