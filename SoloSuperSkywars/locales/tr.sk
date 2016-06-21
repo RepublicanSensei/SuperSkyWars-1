@@ -117,4 +117,5 @@ on load:
 	set {Game_Text_rebuilding} to "&d&lİNŞA EDİLİYOR"
 	set {Game_Text_starting} to "&6&lBAŞLIYOR"
 	set {Game_Text_closed} to "&c&lKAPALI"
+	set {Skywars_Debug_Kick} to "&7Oda yeniden başlatıldığı için atıldın!"
 #
