@@ -295,3 +295,4 @@ on load:
 	set {cantLessMin} to "§7Maks oyuncu sayısı min. oyuncu sayısından az olamaz."
 	set {timeToLore} to "§7Kalan süre:"
 	set {kit_contains} to "§aBu kit bu eşyaları içerir;"
+	set {Locale_Error_Website} to "&cİnternet bağlantısı yok!"
