@@ -49,6 +49,7 @@ on load:
 	set {Item_Magma} to "&c&lAYRIL"
 	set {Item_Bed} to "&c&lLOBİYE DÖN"
 	set {Item_Vote} to "&a&lOYLA"
+	set {Item_Clock} to "&d&lKİTİNİ SEÇ"
 	set {Vote_Message_1} to "&a/vote &7komutu ile sandıkları oylayabilirsiniz."
 	set {Vote_Counts} to "&aOy sayıları »"
 	set {Vote_Text::1} to "&aKolay sandık"
