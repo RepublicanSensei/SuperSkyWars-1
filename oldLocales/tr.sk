@@ -1,6 +1,7 @@
 # SuperSkywars Mesaj Dosyası
 on load:
 	set {Command_Unknown} to "Bilinmeyen komut!"
+	set {skywarsTag} to "&e&lSW &6&l»&7"
 	set {Game_Menu_1} to "Skywars Menüsü"
 	set {Game_Menu_Name_1} to "§6Yardım"
 	set {Game_Menu_Name_2} to "§cAdmin Menü"
