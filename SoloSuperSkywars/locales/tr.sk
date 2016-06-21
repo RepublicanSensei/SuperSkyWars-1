@@ -33,7 +33,6 @@ on load:
 	set {Error_Usage} to "&aKullanım: &7"
 	set {Command_Remove_1} to "&aArena silindi: &7"
 	set {Command_SetSpawn_1} to "&a{GAME} &7arenasının &2{SPAWN}. &7doğuş noktası belirlendi."
-	set {CantBeLessThanMin} to "&cEn az minimum oyuncu sayısı kadar belirleyebilirsin!"
 	set {CantBeGreaterThanMax} to "&cEn fazla maksimum oyuncu sayısı kadar belirleyebilirsin!"
 	set {Error_NoArena} to "&cBöyle bir arena yok: &7"
 	set {Error_Min1} to "&cGirdiğin değer sıfırdan büyük olmalı!"
