@@ -112,4 +112,9 @@ on load:
 	set {Text_Time} to "&7Kalan süre: &e"
 	set {Text_Minutes} to "dakika"
 	set {Next_Page} to "&6İleri"
+	set {Game_Text_ingame} to "&e&lOYUNDA"
+	set {Game_Text_waiting} to "&a&lBEKLİYOR"
+	set {Game_Text_rebuilding} to "&d&lİNŞA EDİLİYOR"
+	set {Game_Text_starting} to "&6&lBAŞLIYOR"
+	set {Game_Text_closed} to "&c&lKAPALI"
 #
