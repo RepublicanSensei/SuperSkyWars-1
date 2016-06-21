@@ -120,6 +120,6 @@ on load:
 	set {Skywars_Debug_Kick} to "&7Oda yeniden başlatıldığı için atıldın!"
 	set {Command_Join_3} to "&7Oyun &a{TIME} &7saniye sonra başlıyor..."
 	set {Command_Join_4} to "&cOyunculardan birisi çıktığı için sayım durduruldu!"
-	set {Command_Join_5} to "&a&lOYUN BAŞLADI..."
+	set {Command_Join_5} to "OYUN BAŞLADI..."
 	set {Command_Join_6} to "&aOyun başladı, başarılar..."
 #
