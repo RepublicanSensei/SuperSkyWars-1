@@ -124,4 +124,5 @@ on load:
 	set {Command_Join_6} to "&aOyun başladı, başarılar..."
 	set {Command_Join_7} to "Tüm rakiplerini belirtilen sürede öldür."
 	set {Command_Join_8} to "&7Oyunun bitmesine &c{TIME} &7dakika kaldı!"
+	set {Command_Join_9} to "&c&lSÜRE DOLDU, KİMSE KAZANAMADI!"
 #
