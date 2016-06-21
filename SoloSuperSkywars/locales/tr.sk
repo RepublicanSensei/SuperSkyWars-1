@@ -122,4 +122,5 @@ on load:
 	set {Command_Join_4} to "&cOyunculardan birisi çıktığı için sayım durduruldu!"
 	set {Command_Join_5} to "OYUN BAŞLADI..."
 	set {Command_Join_6} to "&aOyun başladı, başarılar..."
+	set {Command_Join_7} to "Tüm rakiplerini belirtilen sürede öldür."
 #
