@@ -130,7 +130,6 @@ on load:
 	set {Name_kits} to "&aKitler"
 	set {Name_ingamescoreboard} to "&aOyun Skor-tablosu"
 	set {Name_lobbyscoreboard} to "&aLobi Skor-tablosu"
-	set {Name_lighting} to "&aŞimsek"
 	set {Name_bungee} to "&aBungeeCord Bağlantısı"
 	set {Name_bungeemainlobby} to "&aBungeeCord Ana Lobisi"
 	set {Name_hellmode} to "&aCehennem Modu"
