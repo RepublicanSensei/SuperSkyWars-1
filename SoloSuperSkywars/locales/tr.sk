@@ -150,4 +150,5 @@ on load:
 	set {Name_Item_closed} to "&aKapalı Durumu Simgesi"
 	set {Name_Item_rebuilding} to "&aİnşa Durumu Simgesi"
 	set {Name_Item_starting} to "&aBaşlıyor Durumu Simgesi"
+	set {Command_SetMainLobby_1} to "&7Ana lobi başarılı bir şekilde belirlendi."
 #
