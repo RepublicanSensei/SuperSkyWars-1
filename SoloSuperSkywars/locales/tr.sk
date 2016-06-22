@@ -164,4 +164,5 @@ on load:
 	set {Text_second} to "saniye"
 	set {Text_minutes} to "dakika"
 	set {Text_minute} to "dakika"
+	set {Error_Finishing} to "&cBu oyun bitiyor, lütfen biraz sonra tekrar dene!"
 #
