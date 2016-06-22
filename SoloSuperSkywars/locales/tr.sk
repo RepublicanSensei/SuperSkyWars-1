@@ -166,9 +166,9 @@ on load:
 	set {Text_minute} to "dakika"
 	set {Error_Finishing} to "&cBu oyun bitiyor, lütfen biraz sonra tekrar dene!"
 	set {GUI_Header_kits} to "&8&l» &8Kit Listesi"
-	set {Kit_Contains} to "&6» Bu kit şu eşyaları içerir;"
+	set {Kit_Contains} to "&e» Bu kit şu eşyaları içerir;"
 	set {Kit_1} to "&aKiti satın almak için buraya tıkla."
 	set {Kit_2} to "&7Kiti seçmek için buraya tıkla."
 	set {Kit_3} to "&cBu kit için iznin yok."
-	set {Kit_Price} to "&7Tutar:"
+	set {Kit_Price} to "&7Tutar:&e"
 #
