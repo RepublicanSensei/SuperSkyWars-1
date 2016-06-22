@@ -155,5 +155,7 @@ on load:
 	set {Death_1} to "&c{PLAYER} &7oyuncusunu öldürerek &e+{COINS} &7jeton kazandın!"
 	set {Death_2} to "&4{ATTACKER}&7, &c{VICTIM} &7oyuncusunu öldürdü. &2[&a{PLAYERS}&2/&a{MAX}&2]"
 	set {Death_3} to "&c{VICTIM} &7öldü. &2[&a{PLAYERS}&2/&a{MAX}&2]"
-	set {Death_4} to "&cÖldün!, yeni bir oyun bulmak için &f/skywars &ckomutunu kullan."
+	set {Death_4} to "&c&lÖldün! &cYeni bir oyun bulmak için &f/skywars &ckomutunu kullan."
+	set {No_Action_Lobby} to "&cOyun lobisinde hiç bir eylemde bulunamazsın!"
+	set {No_Action_Spec} to "&cİzleyici modundayken hiç bir eylemde bulunamazsın!"
 #
