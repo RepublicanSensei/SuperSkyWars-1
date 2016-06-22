@@ -165,4 +165,5 @@ on load:
 	set {Text_minutes} to "dakika"
 	set {Text_minute} to "dakika"
 	set {Error_Finishing} to "&cBu oyun bitiyor, lütfen biraz sonra tekrar dene!"
+	set {GUI_Header_kits} to "&8&l» &8Kit Listesi"
 #
