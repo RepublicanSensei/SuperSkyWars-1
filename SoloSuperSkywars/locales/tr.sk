@@ -159,4 +159,5 @@ on load:
 	set {No_Action_Spec} to "&cİzleyici modundayken hiç bir eylemde bulunamazsın!"
 	set {Arena_Rebuild_1} to "&a{ARENA} &7arenasının yenilenmesi başlıyor, başlangıç saati: &9{TIME}"
 	set {Arena_Rebuild_2} to "&a{ARENA} &7arenasının yenilenmesi bitti, geçen süre: &9{TIME}"
+	set {Command_Debug_1} to "&a{ARENA} &7arenasının tüm verileri sıfırlandı, yenileniyor..."
 #
