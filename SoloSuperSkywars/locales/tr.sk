@@ -64,7 +64,7 @@ on load:
 	set {Error_Closed} to "&cBu oda kapalı!"
 	set {Error_ReBuilding} to "&cBu oda yeniden inşa ediliyor!"
 	set {Error_Command_Leave_1} to "&cTekrar gir-çık yapmak için &42 saniye &cbekle!"
-	set {Command_Leave_1} to "&c{PLAYER} &7odadan ayrıldı."
+	set {Command_Leave_1} to "&c{PLAYER} &7odadan ayrıldı. &2[&a{PLAYERS}&2/&a%{_max}%&2]"
 	set {Command_Leave_2} to "&7Bu odadan başarılı bir şekilde ayrıldınız."
 	set {Error_NotInGame} to "&cBir oyunda değilsiniz!"
 	set {Config_GUI_Header} to "&8&l» &8Ayar Menüsü"
