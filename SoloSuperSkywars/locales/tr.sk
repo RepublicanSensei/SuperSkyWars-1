@@ -135,6 +135,7 @@ on load:
 	set {Name_hellmode} to "&aCehennem Modu"
 	set {Name_automaticday} to "&aOtomatik Sabah"
 	set {Name_chestvote} to "&aSandık Oylaması"
+	set {Name_glassbox} to "&aCam Kafesler"
 	set {Name_spectatormode} to "&aİzleyici Modu"
 	set {Name_gametime} to "&aOyun Süresi"
 	set {Name_coinonkill} to "&aÖldürme Jetonu"
