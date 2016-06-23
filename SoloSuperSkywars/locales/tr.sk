@@ -170,5 +170,8 @@ on load:
 	set {Kit_1} to "&aKiti satın almak için buraya tıkla."
 	set {Kit_2} to "&7Kiti seçmek için buraya tıkla."
 	set {Kit_3} to "&cBu kit için iznin yok."
+	set {Kit_4} to "&a{KIT} &7kiti &e{COINS} &7jetona satın alındı."
+	set {Kit_5} to "&a{KIT} &7kiti &7seçildi."
 	set {Kit_Price} to "&7Tutar:&e"
+	set {No_Coins} to "&cBunun için yeteri miktarda jetonun yok!"
 #
