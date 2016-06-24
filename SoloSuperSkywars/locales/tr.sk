@@ -190,9 +190,9 @@ on load:
 	set {Arena_GUI_4} to "&aMinimum Oyuncu Sayısı"
 	set {Arena_GUI_4_Lore} to "||&7&oMinimum oyuncu sayısını değiştirmek için buraya tıkla."
 	set {Arena_GUI_5} to "&aMaksimum Oyuncu Sayısı"
-	set {Arena_GUI_5_Lore} to "||&7&oMaksimum oyuncu sayısını değiştirmek için buraya tıkla.
+	set {Arena_GUI_5_Lore} to "||&7&oMaksimum oyuncu sayısını değiştirmek için buraya tıkla."
 	set {Arena_GUI_6} to "&aDoğuş Yerlerini Belirle"
-	set {Arena_GUI_6_Lore} to "||&7&oDoğuş yerlerini belirlemek için buraya tıkla.
+	set {Arena_GUI_6_Lore} to "||&7&oDoğuş yerlerini belirlemek için buraya tıkla."
 	set {Arena_GUI_7} to "&aLobiyi belirle"
 	set {Arena_GUI_7_Lore} to "||&7&oLobiyi belirlemek için buraya tıkla."
 	set {Arena_GUI_8} to "&aHaritayı Yenile"
