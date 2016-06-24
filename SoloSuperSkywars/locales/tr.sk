@@ -2,6 +2,7 @@
 on load:
 	set {SkyWars_Prefix} to "&e&lSSW &6&l»"
 	set {SkyWars_Messages_Version_Oz} to "1.0_ULTIMATE"
+	set {Unknown_Command} to "&cBöyle bir alt-komut bulunamadı!"
 	set {Error_NoPerm} to "&cBunun için iznin yok."
 	set {Help_Other_Page} to "&7Diğer sayfaya geçmek için &a/sw help {NEXTPAGE} &7komutunu kullan."
 	set {SkyWars_Help} to "&7&lSUPERSKYWARS"
