@@ -178,5 +178,6 @@ on load:
 	set {No_Variable_list} to "&cHiç arena yok!"
 	set {No_Variable_kits} to "&cHiç satın alınacak kit yok!"
 	set {No_Variable_mykits} to "&cHiç kitin yok!"
+	set {Text_Free} to "Ücretsiz"
 #
 #
