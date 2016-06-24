@@ -173,4 +173,5 @@ on load:
 	set {Kit_4} to "&a{KIT} &7kiti &7seçildi."
 	set {Kit_Price} to "&7Tutar:&e"
 	set {No_Coins} to "&cBunun için yeteri miktarda jetonun yok!"
+	set {Kit_Menu_Header} to "&8&l» &8Kitlerin"
 #
