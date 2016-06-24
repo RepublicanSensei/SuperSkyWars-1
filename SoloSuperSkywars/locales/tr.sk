@@ -180,7 +180,7 @@ on load:
 	set {No_Variable_mykits} to "&cHiç kitin yok!"
 	set {Text_Free} to "Ücretsiz"
 	set {Arena_GUI_Header} to "&8&l» &8Arenayı Yönet"
-	set {Arena_GUI_1} to "&aArena Durumu:"
-	set {Arena_GUI_1_Lore} to "||&7&oArena: {ARENA}||&7&oArena durumu: {STATUS}||&7&oOyuncular: {PLAYERS}/{MAX}||&7&oİzleyiciler: {SPEC}||||&a&oArenayı başlatmak için buraya tıkla." 
+	set {Arena_GUI_1} to "&6Arena Durumu:"
+	set {Arena_GUI_1_Lore} to "||&7&oArena: &f&o{ARENA}||&7Arena durumu: &o{STATUS}||&7Oyuncular: &f&o{PLAYERS}&7&o/&f&o{MAX}||&7İzleyiciler: &f&o{SPEC}||||&7&oArenayı başlatmak için buraya tıkla." 
 #
 #
