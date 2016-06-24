@@ -179,5 +179,6 @@ on load:
 	set {No_Variable_kits} to "&cHiç satın alınacak kit yok!"
 	set {No_Variable_mykits} to "&cHiç kitin yok!"
 	set {Text_Free} to "Ücretsiz"
+	set {Arena_GUI_Header} to "&8&l» &8Arenayı Yönet"
 #
 #
