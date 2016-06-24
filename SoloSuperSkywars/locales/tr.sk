@@ -181,5 +181,6 @@ on load:
 	set {Text_Free} to "Ücretsiz"
 	set {Arena_GUI_Header} to "&8&l» &8Arenayı Yönet"
 	set {Arena_GUI_1} to "&aArena Durumu:"
+	set {Arena_GUI_1_Lore} to "||&7&oArena: {ARENA}||&7&oArena durumu: {STATUS}||&7&oOyuncular: {PLAYERS}/{MAX}||&7&oİzleyiciler: {SPEC}||||&a&oArenayı başlatmak için buraya tıkla." 
 #
 #
